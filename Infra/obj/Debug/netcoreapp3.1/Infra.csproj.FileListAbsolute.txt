@@ -1,0 +1,15 @@
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.json
+D:\Repos\User\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.dev.json
+D:\Repos\User\Infra\obj\Debug\netcoreapp3.1\Infra.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Repos\User\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Repos\User\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Repos\User\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Repos\User\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Repos\User\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Repos\User\Service\obj\Debug\netcoreapp3.1\Service.pdb
